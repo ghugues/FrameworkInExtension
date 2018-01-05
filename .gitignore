@@ -1,0 +1,12 @@
+# User specific files
+FrameworkInExtension.xcodeproj/project.xcworkspace/xcuserdata/
+FrameworkInExtension.xcodeproj/xcuserdata/
+FrameworkInExtension.xcworkspace/xcuserdata/
+
+# External dependencies
+Pods/
+
+# OS Specific files
+.DS_Store*
+._*
+
